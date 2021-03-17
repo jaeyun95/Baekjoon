@@ -1,4 +1,4 @@
-#(2750) 수 정렬
+#(2750) 수 정렬하기
 
 number = int(input())
 input_list = []
