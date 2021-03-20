@@ -26,4 +26,8 @@
 19.  [10610번 30](https://blog.naver.com/jaeyoon_95/222280392491)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10610.py)
 20.  [10825번 국영수](https://blog.naver.com/jaeyoon_95/222280405305)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10825.py)
 21.  [11656번 접미사 배열](https://blog.naver.com/jaeyoon_95/222280413506)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11656.py)
-
+22.  [1946번 신입 사원](https://blog.naver.com/jaeyoon_95/222281713235)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1946.py)
+23.  [11728번 배열 합치기](https://blog.naver.com/jaeyoon_95/222281721521)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11728.py)
+24.  [2822번 점수 계산](https://blog.naver.com/jaeyoon_95/222281734593)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2822.py)
+25.  [11652번 카드](https://blog.naver.com/jaeyoon_95/222281740959)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11652.py)
+26.  [5052번 전화번호 목록](https://blog.naver.com/jaeyoon_95/222281764914)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/5052.py)
