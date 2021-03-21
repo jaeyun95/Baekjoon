@@ -31,3 +31,7 @@
 24.  [2822번 점수 계산](https://blog.naver.com/jaeyoon_95/222281734593)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2822.py)
 25.  [11652번 카드](https://blog.naver.com/jaeyoon_95/222281740959)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11652.py)
 26.  [5052번 전화번호 목록](https://blog.naver.com/jaeyoon_95/222281764914)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/5052.py)
+27.  [10867번 중복 빼고 정렬하기](https://blog.naver.com/jaeyoon_95/222281787407)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10867.py)
+28.  [8979번 올림픽](https://blog.naver.com/jaeyoon_95/222281829464)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/8979.py)
+29.  [1744번 수 묶기](https://blog.naver.com/jaeyoon_95/222282896747)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1744.py)
+30.  [2437번 저울](https://blog.naver.com/jaeyoon_95/222282951172)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2437.py)
