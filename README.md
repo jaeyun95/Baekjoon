@@ -35,3 +35,5 @@
 28.  [8979번 올림픽](https://blog.naver.com/jaeyoon_95/222281829464)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/8979.py)
 29.  [1744번 수 묶기](https://blog.naver.com/jaeyoon_95/222282896747)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1744.py)
 30.  [2437번 저울](https://blog.naver.com/jaeyoon_95/222282951172)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2437.py)
+31.  [1449번 수리공 항승](https://blog.naver.com/jaeyoon_95/222284111354)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1449.py)
+32.  [1431번 시리얼 번호](https://blog.naver.com/jaeyoon_95/222284164892)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1431.py)
