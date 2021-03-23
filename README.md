@@ -37,3 +37,5 @@
 30.  [2437번 저울](https://blog.naver.com/jaeyoon_95/222282951172)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2437.py)
 31.  [1449번 수리공 항승](https://blog.naver.com/jaeyoon_95/222284111354)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1449.py)
 32.  [1431번 시리얼 번호](https://blog.naver.com/jaeyoon_95/222284164892)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1431.py)
+33.  [7453번 합이 0인 네 정수](https://blog.naver.com/jaeyoon_95/222285275286)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/7453.py)
+34.  [1302번 베스트셀러](https://blog.naver.com/jaeyoon_95/222285293396)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1302.py)
