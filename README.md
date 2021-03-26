@@ -39,3 +39,5 @@
 32.  [1431번 시리얼 번호](https://blog.naver.com/jaeyoon_95/222284164892)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1431.py)
 33.  [7453번 합이 0인 네 정수](https://blog.naver.com/jaeyoon_95/222285275286)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/7453.py)
 34.  [1302번 베스트셀러](https://blog.naver.com/jaeyoon_95/222285293396)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1302.py)
+35.  [1991번 트리 순회](https://blog.naver.com/jaeyoon_95/222286148489)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1991.py)
+36.  [5397번 키로거](https://blog.naver.com/jaeyoon_95/222288686942)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/5397.py)
