@@ -41,4 +41,6 @@
 34.  [1302번 베스트셀러](https://blog.naver.com/jaeyoon_95/222285293396)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1302.py)
 35.  [1991번 트리 순회](https://blog.naver.com/jaeyoon_95/222286148489)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1991.py)
 36.  [5397번 키로거](https://blog.naver.com/jaeyoon_95/222288686942)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/5397.py)
-36.  [1655번 가운데를 말해요](https://blog.naver.com/jaeyoon_95/222294072618)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1655.py)
+37.  [1655번 가운데를 말해요](https://blog.naver.com/jaeyoon_95/222294072618)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1655.py)
+36.  [1753번 최단경로](https://blog.naver.com/jaeyoon_95/222296414758)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1753.py)
+36.  [11657번 타임머신](https://blog.naver.com/jaeyoon_95/222297504267)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11657.py)
