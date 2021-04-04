@@ -10,9 +10,9 @@ for _ in range(M):
 
 max_cost = list(map(int, sys.stdin.readline().split()))
 
-def bfs(graph, city, en):
+def dfs(graph, city, en):
     visited = []
-    queue = [city]
+    stack = [city]
     while queue:
         now = queue.pop()
         if now == en:
