@@ -46,3 +46,8 @@
 37.  [11657번 타임머신](https://blog.naver.com/jaeyoon_95/222297504267)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11657.py)
 38.  [11047번 동전0](https://blog.naver.com/jaeyoon_95/222324946115)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11047.py)
 39.  [8980번 택배](https://blog.naver.com/jaeyoon_95/222325017632)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/8980.py)
+40.  [10250번  ACM호텔](https://blog.naver.com/jaeyoon_95/222326011380)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10250.py)
+41.  [1475번 방 번호](https://blog.naver.com/jaeyoon_95/222326031162)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1475.py)
+42.  [2178번 미로 탐색](https://blog.naver.com/jaeyoon_95/222327484420)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2178.py)
+43.  [2573번 빙산](https://blog.naver.com/jaeyoon_95/222327573031)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2573.py)
+44.  [4963번 섬의 개수](https://blog.naver.com/jaeyoon_95/222337356556)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/4963.py)
