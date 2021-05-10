@@ -56,4 +56,5 @@
 49.  [2839번 설탕배달](https://blog.naver.com/jaeyoon_95/222341547863)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2839.py)
 50.  [1927번 최소 힙](https://blog.naver.com/jaeyoon_95/222343249839)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1927.py)
 51.  [11279번 최대 힙](https://blog.naver.com/jaeyoon_95/222343254040)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11279.py)
+52.  [2110번 공유기 설치](https://blog.naver.com/jaeyoon_95/222344914172)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2110.py)
 
