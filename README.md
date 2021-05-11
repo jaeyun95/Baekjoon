@@ -59,4 +59,7 @@
 52.  [2110번 공유기 설치](https://blog.naver.com/jaeyoon_95/222344914172)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2110.py)
 53.  [15732번 도토리 숨기기](https://blog.naver.com/jaeyoon_95/222345086540)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/15732.py)
 54.  [1904번 01타일](https://blog.naver.com/jaeyoon_95/222345150873)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1904.py)
+55.  [10282번 해킹](https://blog.naver.com/jaeyoon_95/222346437668)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10282.py)
+56.  [1504번 특정한 최단 경로](https://blog.naver.com/jaeyoon_95/222346482161)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1504.py)
+57.  [1602번 도망자 원숭이](https://blog.naver.com/jaeyoon_95/222346577492)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1602.py)
 
