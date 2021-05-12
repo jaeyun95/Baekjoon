@@ -1,7 +1,6 @@
 #(1197) 최소 스패닝 트리
 
 import sys
-from collections import deque
 
 V, E = map(int, sys.stdin.readline().split())
 parent = [0] * (V+1)
