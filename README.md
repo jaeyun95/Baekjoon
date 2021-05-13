@@ -62,4 +62,10 @@
 55.  [10282번 해킹](https://blog.naver.com/jaeyoon_95/222346437668)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/10282.py)
 56.  [1504번 특정한 최단 경로](https://blog.naver.com/jaeyoon_95/222346482161)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1504.py)
 57.  [1602번 도망자 원숭이](https://blog.naver.com/jaeyoon_95/222346577492)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1602.py)
+58.  [1197번 최소 스패닝 트리](https://blog.naver.com/jaeyoon_95/222347726665)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1197.py)
+59.  [1916번 최소비용 구하기](https://blog.naver.com/jaeyoon_95/222347751308)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1916.py)
+60.  [7576번 토마토](https://blog.naver.com/jaeyoon_95/222347825365)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/7576.py)
+61.  [18352번 특정 거리의 도시 찾기](https://blog.naver.com/jaeyoon_95/222349297431)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/18352.py)
+62.  [13460번 구슬 탈출 2](https://blog.naver.com/jaeyoon_95/222349394325)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/13460.py)
+63.  [15591번 MooTube (Silver)](https://blog.naver.com/jaeyoon_95/222349589370)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/15591.py)
 
