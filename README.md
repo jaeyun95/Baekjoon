@@ -68,4 +68,5 @@
 61.  [18352번 특정 거리의 도시 찾기](https://blog.naver.com/jaeyoon_95/222349297431)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/18352.py)
 62.  [13460번 구슬 탈출 2](https://blog.naver.com/jaeyoon_95/222349394325)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/13460.py)
 63.  [15591번 MooTube (Silver)](https://blog.naver.com/jaeyoon_95/222349589370)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/15591.py)
+64.  [1806번 부분합](https://blog.naver.com/jaeyoon_95/222351392535)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1806.py)
 
