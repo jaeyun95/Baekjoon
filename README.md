@@ -69,4 +69,7 @@
 62.  [13460번 구슬 탈출 2](https://blog.naver.com/jaeyoon_95/222349394325)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/13460.py)
 63.  [15591번 MooTube (Silver)](https://blog.naver.com/jaeyoon_95/222349589370)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/15591.py)
 64.  [1806번 부분합](https://blog.naver.com/jaeyoon_95/222351392535)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1806.py)
+65.  [11404번 플로이드](https://blog.naver.com/jaeyoon_95/222354606579)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11404.py)
+66.  [16954번 움직이는 미로 탈출](https://blog.naver.com/jaeyoon_95/222354729947)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/16954.py)
+
 
