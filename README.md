@@ -71,5 +71,8 @@
 64.  [1806번 부분합](https://blog.naver.com/jaeyoon_95/222351392535)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1806.py)
 65.  [11404번 플로이드](https://blog.naver.com/jaeyoon_95/222354606579)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/11404.py)
 66.  [16954번 움직이는 미로 탈출](https://blog.naver.com/jaeyoon_95/222354729947)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/16954.py)
+67.  [12865번 평범한 배낭](https://blog.naver.com/jaeyoon_95/222355560684)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/12865.py)
+68.  [9376번 탈옥](https://blog.naver.com/jaeyoon_95/222355814484)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/9376.py)
+69.  [2533번 사회망 서비스(SNS)](https://blog.naver.com/jaeyoon_95/222355946971)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2533.py)
 
 
