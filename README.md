@@ -74,6 +74,6 @@
 67.  [12865번 평범한 배낭](https://blog.naver.com/jaeyoon_95/222355560684)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/12865.py)
 68.  [9376번 탈옥](https://blog.naver.com/jaeyoon_95/222355814484)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/9376.py)
 69.  [2533번 사회망 서비스(SNS)](https://blog.naver.com/jaeyoon_95/222355946971)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2533.py)
-70.  [2294번 동전 2 ](https://blog.naver.com/jaeyoon_95/222355985924)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2294.py)
-
-
+70.  [2294번 동전 2](https://blog.naver.com/jaeyoon_95/222355985924)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/2294.py)
+70.  [1956번 운동](https://blog.naver.com/jaeyoon_95/222357004211)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1956.py)
+70.  [6087번 레이저 통신](https://blog.naver.com/jaeyoon_95/222357276531)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/6087.py)
