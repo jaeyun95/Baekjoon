@@ -80,3 +80,5 @@
 73.  [1012번 유기농 배추](https://blog.naver.com/jaeyoon_95/222357346970)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1012.py)
 74.  [9205번 맥주 마시면서 걸어가기](https://blog.naver.com/jaeyoon_95/222358292359)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/9205.py)
 75.  [4991번 로봇 청소기](https://blog.naver.com/jaeyoon_95/222358851897)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/4991.py)
+76.  [7579번 앱](https://blog.naver.com/jaeyoon_95/222359764228)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/7579.py)
+77.  [1890번 점프](https://blog.naver.com/jaeyoon_95/222359883633)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1890.py)
