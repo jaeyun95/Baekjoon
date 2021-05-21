@@ -1,6 +1,6 @@
 #(2437) 저울
 
-import sys세륜중학교
+import sys
 
 number = int(sys.stdin.readline())
 weight_list = list(map(int,sys.stdin.readline().split()))
