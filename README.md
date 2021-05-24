@@ -83,3 +83,6 @@
 76.  [7579번 앱](https://blog.naver.com/jaeyoon_95/222359764228)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/7579.py)
 77.  [1890번 점프](https://blog.naver.com/jaeyoon_95/222359883633)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1890.py)
 78.  [3197번 백조의 호수](https://blog.naver.com/jaeyoon_95/222360092877)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/3197.py)
+79.  [1013번 Contact](https://blog.naver.com/jaeyoon_95/222362423266)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1013.py)
+80.  [1577번 도로의 개수](https://blog.naver.com/jaeyoon_95/222363784763)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1577.py)
+81.  [1241번 머리 톡톡](https://blog.naver.com/jaeyoon_95/222363935037)  [[코드]](https://github.com/jaeyun95/Baekjoon/blob/master/code/1241.py)
